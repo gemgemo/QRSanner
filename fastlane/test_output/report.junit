@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='QRScannerTests.xctest' tests='1' failures='0'>
+  <testsuite name='QRScannerTests.QRScannerTests' tests='1' failures='0'>
+    <testcase classname='QRScannerTests.QRScannerTests' name='testOnePlusOne' time='0.226'/>
+  </testsuite>
+</testsuites>

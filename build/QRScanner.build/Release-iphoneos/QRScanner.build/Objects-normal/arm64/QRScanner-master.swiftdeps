@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "fea9f7a4d270095c55cc670608caea3a"
+build_time: [1513960632, 201383000]
+inputs:
+  "/Users/gamal/Desktop/QRScanner/QRScanner/Controllers/Capture.swift": [9223372036, 854775807]
+  "/Users/gamal/Desktop/QRScanner/QRScanner/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/gamal/Desktop/QRScanner/QRScanner/Configs.swift": [9223372036, 854775807]
+  "/Users/gamal/Desktop/QRScanner/QRScanner/Controllers/QRReader.swift": [9223372036, 854775807]
